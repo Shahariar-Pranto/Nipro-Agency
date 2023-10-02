@@ -1,0 +1,19 @@
+font-family roboto reguler           font-family: 'Roboto', sans-serif;
+            lato mediam              font-family: 'Lato', sans-serif;
+color 
+        black: #333333
+        ash  : #8e8e8e
+
+
+
+
+
+
+
+
+
+768
+.d_menu[data-bs-popper] {
+    top: -20%;
+    left: 60px;
+}
